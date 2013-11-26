@@ -12,6 +12,7 @@ alias gbr='git branch'
 alias gch='git checkout'
 alias gdi='git diff --color'
 alias gdis='git diff --color --staged'
+alias gre='git remote'
 
 # for tmux
 alias tmux='tmux -u'
