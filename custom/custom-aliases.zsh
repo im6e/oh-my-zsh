@@ -16,3 +16,6 @@ alias gre='git remote'
 
 # for tmux
 alias tmux='tmux -u'
+
+# for Gulp
+alias gulp='gulp --require coffee-script/register'
